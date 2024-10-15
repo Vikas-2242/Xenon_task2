@@ -53,16 +53,16 @@ sysopctl service list
 ## Sample Screenshots
 
 # Disk Usages
-![Disk Usage](https://drive.google.com/file/d/10YrRlE8-wOFCQkzSSU7w7iV0tG0RpPwH/view?usp=sharing)
+![Disk Usage](https://drive.google.com/uc?export=view&id=10YrRlE8-wOFCQkzSSU7w7iV0tG0RpPwH)
 
 # Help
-![Help](https://drive.google.com/file/d/1zZzC-f_c1-tTofC11WMdQ1Pu81yeW_iS/view?usp=sharing)
+![Help](https://drive.google.com/uc?export=view&id=1zZzC-f_c1-tTofC11WMdQ1Pu81yeW_iS)
 
 # Process
-![Process](https://drive.google.com/file/d/1ZvmuA9nn5F8BDz0O3PPpFlGTC0-xbF5t/view?usp=sharing)
+![Process](https://drive.google.com/uc?export=view&id=1ZvmuA9nn5F8BDz0O3PPpFlGTC0-xbF5t)
 
 # System Load
-![System Load](https://drive.google.com/file/d/1H4eOUN-7Wjl1u7nDRXIWH9BIZ02x1JPY/view?usp=sharing)
+![System Load](https://drive.google.com/uc?export=view&id=1H4eOUN-7Wjl1u7nDRXIWH9BIZ02x1JPY)
 
 
 
