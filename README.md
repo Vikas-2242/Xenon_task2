@@ -38,3 +38,86 @@ To install `sysopctl`, follow these steps:
    ```bash
    git clone https://github.com/yourusername/sysopctl.git
    cd sysopctl
+2.  Make the script executable:
+chmod +x sysopctl
+
+3. Add the script to your PATH for global access:
+ sudo cp sysopctl /usr/local/bin/
+Usage
+Once installed and made executable, you can use the following commands to perform system tasks:
+
+List Services
+To list all active services:
+
+bash
+Copy code
+sysopctl service list
+Start a Service
+To start a specific service:
+
+bash
+Copy code
+sysopctl service start <service_name>
+Stop a Service
+To stop a specific service:
+
+bash
+Copy code
+sysopctl service stop <service_name>
+System Load
+To monitor system load averages:
+
+bash
+Copy code
+sysopctl load
+Disk Usage
+To check detailed disk usage:
+
+bash
+Copy code
+sysopctl disk usage
+Monitor Processes
+To monitor real-time processes:
+
+bash
+Copy code
+sysopctl process monitor
+Analyze Logs
+To analyze recent critical logs:
+
+bash
+Copy code
+sysopctl logs analyze
+Backup System
+To perform system file backups:
+
+bash
+Copy code
+sysopctl backup
+Sample Screenshots
+
+Help
+To get help on using sysopctl, run:
+
+bash
+Copy code
+sysopctl help
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Acknowledgments
+Thanks to the open-source community for inspiration and support.
+markdown
+Copy code
+
+### Notes:
+- Replace `yourusername` in the clone command with your actual GitHub username.
+- Update the `path/to/...` in the screenshots section with the actual paths to your images.
+- Ensure the usage commands align with the actual syntax used in your script.
+
+
+
+
+
+
+
