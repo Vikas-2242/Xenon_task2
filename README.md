@@ -52,7 +52,7 @@ sysopctl service list
 
 #Sample Screenshots
 
-![Disk Usage]("C:\Users\vikas\OneDrive\Desktop\Disk usages.png")
+![Disk Usage]("Help.png")
 
 
 
