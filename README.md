@@ -50,64 +50,20 @@ Once installed and made executable, you can use the following commands to perfor
 To list all active services:
 sysopctl service list
 
-#Sample Screenshots
+## Sample Screenshots
 
-![Disk Usage]("https://github.com/Vikas-2242/Xenon_task2/blob/main/Disk%20usages.png?raw=true")
+# Disk Usages
+![Disk Usage](https://drive.google.com/file/d/10YrRlE8-wOFCQkzSSU7w7iV0tG0RpPwH/view?usp=sharing)
 
+# Help
+![Help](https://drive.google.com/file/d/1zZzC-f_c1-tTofC11WMdQ1Pu81yeW_iS/view?usp=sharing)
 
+# Process
+![Process](https://drive.google.com/file/d/1ZvmuA9nn5F8BDz0O3PPpFlGTC0-xbF5t/view?usp=sharing)
 
-Start a Service
+# System Load
+![System Load](https://drive.google.com/file/d/1H4eOUN-7Wjl1u7nDRXIWH9BIZ02x1JPY/view?usp=sharing)
 
-To start a specific service:
-
-sysopctl service start <service_name>
-Stop a Service
-To stop a specific service:
-
-sysopctl service stop <service_name>
-System Load
-To monitor system load averages:
-
-sysopctl load
-Disk Usage
-To check detailed disk usage:
-
-
-sysopctl disk usage
-Monitor Processes
-To monitor real-time processes:
-
-
-sysopctl process monitor
-Analyze Logs
-To analyze recent critical logs:
-
-
-sysopctl logs analyze
-Backup System
-To perform system file backups:
-
-
-sysopctl backup
-Sample Screenshots
-
-Help
-To get help on using sysopctl, run:
-
-
-sysopctl help
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Acknowledgments
-Thanks to the open-source community for inspiration and support.
-markdown
-Copy code
-
-### Notes:
-- Replace `yourusername` in the clone command with your actual GitHub username.
-- Update the `path/to/...` in the screenshots section with the actual paths to your images.
-- Ensure the usage commands align with the actual syntax used in your script.
 
 
 
