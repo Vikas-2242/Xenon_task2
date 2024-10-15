@@ -52,7 +52,7 @@ sysopctl service list
 
 #Sample Screenshots
 
-![Disk Usage]("Disk usages.png")
+![Disk Usage]("https://github.com/Vikas-2242/Xenon_task2/blob/main/Disk%20usages.png?raw=true")
 
 
 
