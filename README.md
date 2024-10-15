@@ -43,16 +43,16 @@ chmod +x sysopctl
 
 3. Add the script to your PATH for global access:
  sudo cp sysopctl /usr/local/bin/
-##Usage
+## Usage
 Once installed and made executable, you can use the following commands to perform system tasks:
 
-#List Services
+# List Services
 To list all active services:
 sysopctl service list
 
 #Sample Screenshots
 
-![Disk Usage]("Help.png")
+![Disk Usage]("Disk usages.png")
 
 
 
